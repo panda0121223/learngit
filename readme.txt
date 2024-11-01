@@ -7,3 +7,5 @@ second change
 three change
 
 four change
+
+Git tracks changes.
