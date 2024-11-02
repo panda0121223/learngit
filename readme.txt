@@ -17,3 +17,5 @@ master first.
 side2 first.
 
 side2 second.
+
+master first.
