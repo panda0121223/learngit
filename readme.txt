@@ -19,3 +19,5 @@ side2 first.
 side2 second.
 
 master first.
+
+push first
