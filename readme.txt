@@ -10,6 +10,4 @@ four change
 
 Git tracks changes of filesll.
 
-Ceating a new branch is so quick
-
-Creating a new vranch is quick AND simple.
+Ceating a new branch is quick AND simple.
